@@ -14,6 +14,9 @@ Access dataset at [Sales Data](https://drive.google.com/file/d/1jgIN5O3ZgLr0giuS
 - **Oracle Data Integrator 12c**: ETL pipeline
 - **Oracle Analytics Desktop**: Analyze data
 
+## Project Diagram
+![diagram](./img/image21.png)
+
 ## Data modelling
 ### Physical schema
 ![logical schema](./img/image1.png)
