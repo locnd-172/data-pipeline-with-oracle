@@ -6,7 +6,7 @@
 - Perform basic analysis by building a dashboard of Sales Data.
 
 ## Data
-Access dataset at [Sales Data](https://drive.google.com/file/d/1jgIN5O3ZgLr0giuS-yVrAJuPQ5P2DaUn) 
+Access dataset at [Sales Data](https://drive.google.com/file/d/1Y-Vt-Ev5rRuKDQKx9szugNZf5dpxeROh) 
 
 ## Tech-stack
 - **Oracle Database 12c**
